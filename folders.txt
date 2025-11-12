@@ -1,0 +1,4 @@
+.database
+.workingdocuments
+static
+templates
